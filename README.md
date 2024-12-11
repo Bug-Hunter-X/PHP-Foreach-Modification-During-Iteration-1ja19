@@ -1,0 +1,1 @@
+This repository demonstrates a common pitfall in PHP when using foreach loops to modify arrays.  The example shows how unsetting elements within the loop affects the iteration process, potentially leading to unexpected results. The solution illustrates a safer approach to achieve the desired outcome.
